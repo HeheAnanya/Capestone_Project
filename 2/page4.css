@@ -1,0 +1,22 @@
+ .footer{
+    padding-left: 95px;
+    padding-bottom: 20px;
+    height: 32px;
+    /* width: 230px; */
+    margin: 0px;
+}
+ .footer p{
+    color: rgb(150, 145, 145);
+    font-size: 28px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    margin-right: 100px;
+    /* margin-left: 900px; */
+}
+.footer img{
+    display: flex;
+    margin-top: -75px;
+    margin-left: 1100px;
+    margin-bottom: 0px;
+    height: 55px;
+}
