@@ -1,0 +1,41 @@
+.main2{
+    height: 100%;
+    width: 100%;
+}
+.main2 .left{
+    height: 35%;
+    width: 45%;
+    /* display: flex; */
+    margin-left: 5em;
+    margin-top: 5em;
+   
+}
+.left p{
+    color: white;
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 50;
+}
+.center{
+    display: flex;
+    flex-wrap: wrap;
+    height: 50%;
+    width: 100%; 
+    gap:4%;
+    margin-left: 5em;
+    margin-top: 5em;
+}
+.right{
+    height: 35%;
+    width: 45%;
+    /* display: flex; */
+    margin-left: 49em;
+    margin-top: 4em;
+}
+.right p{
+    color: white;
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* font-weight: ; */
+
+}
